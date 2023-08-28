@@ -1,0 +1,9 @@
+{
+  "getCustomerById":{
+  "id":123,
+  "name":"prakash",
+  "email":"prakash6125@gmail.com",
+  "address":"palamaner",
+  "telephone":"123456789"
+}
+}
